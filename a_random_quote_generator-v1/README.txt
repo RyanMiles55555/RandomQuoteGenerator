@@ -1,0 +1,1 @@
+A simple program written in vanilla JS to display random quotes.
